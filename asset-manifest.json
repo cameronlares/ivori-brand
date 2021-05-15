@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cameronlares/crwn-clothing/static/css/main.4c97a16a.chunk.css",
+    "main.js": "/cameronlares/crwn-clothing/static/js/main.82c94c13.chunk.js",
+    "main.js.map": "/cameronlares/crwn-clothing/static/js/main.82c94c13.chunk.js.map",
+    "runtime-main.js": "/cameronlares/crwn-clothing/static/js/runtime-main.4457f696.js",
+    "runtime-main.js.map": "/cameronlares/crwn-clothing/static/js/runtime-main.4457f696.js.map",
+    "static/js/2.210337df.chunk.js": "/cameronlares/crwn-clothing/static/js/2.210337df.chunk.js",
+    "static/js/2.210337df.chunk.js.map": "/cameronlares/crwn-clothing/static/js/2.210337df.chunk.js.map",
+    "static/js/3.303896ca.chunk.js": "/cameronlares/crwn-clothing/static/js/3.303896ca.chunk.js",
+    "static/js/3.303896ca.chunk.js.map": "/cameronlares/crwn-clothing/static/js/3.303896ca.chunk.js.map",
+    "index.html": "/cameronlares/crwn-clothing/index.html",
+    "service-worker.js": "/cameronlares/crwn-clothing/service-worker.js",
+    "service-worker.js.map": "/cameronlares/crwn-clothing/service-worker.js.map",
+    "static/css/main.4c97a16a.chunk.css.map": "/cameronlares/crwn-clothing/static/css/main.4c97a16a.chunk.css.map",
+    "static/js/2.210337df.chunk.js.LICENSE.txt": "/cameronlares/crwn-clothing/static/js/2.210337df.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/cameronlares/crwn-clothing/static/media/crown.3a4e2b15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4457f696.js",
+    "static/js/2.210337df.chunk.js",
+    "static/css/main.4c97a16a.chunk.css",
+    "static/js/main.82c94c13.chunk.js"
+  ]
+}
